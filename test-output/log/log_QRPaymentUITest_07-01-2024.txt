@@ -1,0 +1,68 @@
+
+FinX - Test log reported.
+ =============================================
+
+[04:40:22]: Start Test: QRPaymentUITest
+[04:40:24]: Start iOS App
+[04:45:52]: Start Test: QRPaymentUITest
+[04:45:54]: Start iOS App
+[04:47:32]: Start Test: QRPaymentUITest
+[04:47:34]: Start iOS App
+[04:49:19]: Start Test: QRPaymentUITest
+[04:49:21]: Start iOS App
+[04:49:31]: Open app, look & feel
+[04:49:31]: xPath of BTN_ONE
+[04:49:31]: xPath of BTN_ONE
+[04:49:31]: xPath of BTN_TWO
+[04:49:31]: xPath of BTN_TWO
+[04:49:31]: xPath of BTN_TWO
+[04:49:31]: xPath of BTN_TWO
+[04:49:31]: xPath of QUET_MA_QR_BUTTON
+[04:49:31]: Don't display Quét Mã QR Button
+[04:49:31]: Failed at TC_QRPayment_DisplayQuetMaQR
+[04:49:31]: Failed by java.lang.AssertionError: expected [true] but found [false]
+[04:49:31]: ================ NEXT TESTCASE ======================
+[04:49:33]: ********************** END TEST ************************
+
+[04:52:01]: Start Test: QRPaymentUITest
+[04:52:04]: Start iOS App
+[04:52:15]: Open app, look & feel
+[04:52:15]: xPath of BTN_ONE
+[04:52:15]: xPath of BTN_ONE
+[04:52:15]: xPath of BTN_ONE
+[04:52:15]: xPath of BTN_ONE
+[04:52:15]: xPath of BTN_ONE
+[04:52:15]: xPath of BTN_ONE
+[04:52:15]: xPath of QUET_MA_QR_BUTTON
+[04:52:15]: Don't display Quét Mã QR Button
+[04:52:15]: Failed at TC_QRPayment_DisplayQuetMaQR
+[04:52:15]: Failed by java.lang.AssertionError: expected [true] but found [false]
+[04:52:15]: ================ NEXT TESTCASE ======================
+[04:52:16]: ********************** END TEST ************************
+
+[05:19:49]: Start Test: QRPaymentUITest
+[05:19:51]: Start iOS App
+[05:19:52]: Can't start iOS App, please check - Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: The port #8100 is occupied by an other process. You can either quit that process or select another free port.
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Nams-MacBook-Pro.local', ip: 'fe80:0:0:0:72:1b03:5b6a:b687%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.2', java.version: '1.8.0_371'
+Driver info: driver.version: IOSDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: The port #8100 is occupied by an other process. You can either quit that process or select another free port.
+    at getResponseForW3CError (/usr/local/lib/node_modules/appium/node_modules/@appium/base-driver/lib/protocol/errors.js:1097:9)
+    at asyncHandler (/usr/local/lib/node_modules/appium/node_modules/@appium/base-driver/lib/protocol/protocol.js:491:57)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Nams-MacBook-Pro.local', ip: 'fe80:0:0:0:72:1b03:5b6a:b687%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.2', java.version: '1.8.0_371'
+Driver info: driver.version: IOSDriver
+[05:19:58]: Open app, look & feel
+[05:19:58]: xPath of BTN_ONE
+[05:19:58]: xPath of BTN_ONE
+[05:19:58]: xPath of BTN_ONE
+[05:19:58]: xPath of BTN_ONE
+[05:19:58]: xPath of BTN_ONE
+[05:19:58]: xPath of BTN_ONE
+[05:19:58]: xPath of QUET_MA_QR_BUTTON
+[05:19:58]: Don't display Quét Mã QR Button
+[05:19:58]: Failed at TC_QRPayment_DisplayQuetMaQR
+[05:19:58]: Failed by java.lang.AssertionError: expected [true] but found [false]
+[05:19:58]: ================ NEXT TESTCASE ======================
+[05:19:59]: ********************** END TEST ************************
+

@@ -1,0 +1,76 @@
+
+FinX - Test log reported.
+ =============================================
+
+[02:28:58]: Start Test: LoginTest
+[02:29:00]: - Run with Emulator - Mobile
+[02:29:00]: - Check FinX Mobile App
+[02:29:00]: Can't start Android App, please check - Unable to create a new remote session. Please check the server log for more details. Original error: The requested resource could not be found, or a request was received using an HTTP method that is not supported by the mapped resource (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 103 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Nams-MacBook-Pro.local', ip: 'fe80:0:0:0:1470:488a:6132:a0d3%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.2', java.version: '1.8.0_371'
+Driver info: driver.version: AndroidDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Nams-MacBook-Pro.local', ip: 'fe80:0:0:0:1470:488a:6132:a0d3%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.2', java.version: '1.8.0_371'
+Driver info: driver.version: AndroidDriver
+[02:39:25]: Start Test: LoginTest
+[02:39:27]: - Run with Emulator - Mobile
+[02:39:27]: - Check FinX Mobile App
+[02:39:27]: Can't start Android App, please check - Unable to create a new remote session. Please check the server log for more details. Original error: The requested resource could not be found, or a request was received using an HTTP method that is not supported by the mapped resource (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 150 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Nams-MacBook-Pro.local', ip: 'fe80:0:0:0:1470:488a:6132:a0d3%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.2', java.version: '1.8.0_371'
+Driver info: driver.version: AndroidDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Nams-MacBook-Pro.local', ip: 'fe80:0:0:0:1470:488a:6132:a0d3%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.2', java.version: '1.8.0_371'
+Driver info: driver.version: AndroidDriver
+[02:42:43]: Start Test: LoginTest
+[02:42:46]: - Run with Emulator - Mobile
+[02:42:46]: - Check FinX Mobile App
+[02:42:46]: Can't start Android App, please check - Unable to create a new remote session. Please check the server log for more details. Original error: The requested resource could not be found, or a request was received using an HTTP method that is not supported by the mapped resource (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 144 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Nams-MacBook-Pro.local', ip: 'fe80:0:0:0:1470:488a:6132:a0d3%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.2', java.version: '1.8.0_371'
+Driver info: driver.version: AndroidDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Nams-MacBook-Pro.local', ip: 'fe80:0:0:0:1470:488a:6132:a0d3%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.2', java.version: '1.8.0_371'
+Driver info: driver.version: AndroidDriver
+[02:51:45]: Start Test: LoginTest
+[02:51:47]: - Run with Emulator - Mobile
+[02:51:47]: - Check FinX Mobile App
+[02:51:55]: Started Android App
+[02:52:01]: Open app, look & feel
+[02:52:02]: xPath of LANGUAGE_BUTTON
+[02:52:02]: Display Pre-Login Page, click on Explore Now button
+[02:52:03]: xPath of EXPLORE_BUTTON
+[02:52:06]: Display Home Page
+[02:52:06]: checkInteractionOnExploreNowButton - Passed
+[02:52:06]: ================ NEXT TESTCASE ======================
+[02:52:06]: ********************** END TEST ************************
+
+[03:26:19]: Start Test: LoginTest
+[03:26:21]: - Run with Emulator - Mobile
+[03:26:21]: - Check FinX Mobile App
+[03:26:28]: Started Android App
+[03:26:34]: Open app, look & feel
+[03:26:35]: xPath of LANGUAGE_BUTTON
+[03:26:35]: Display Pre-Login Page, click on Explore Now button
+[03:26:36]: xPath of EXPLORE_BUTTON
+[03:26:39]: Display Home Page
+[03:26:39]: checkInteractionOnExploreNowButton - Passed
+[03:26:39]: ================ NEXT TESTCASE ======================
+[03:26:40]: ********************** END TEST ************************
+
+[23:42:22]: Start Test: LoginTest
+[23:42:25]: - Run with Emulator - Mobile
+[23:42:25]: - Check FinX Mobile App
+[23:42:33]: Started Android App
+[23:42:39]: Open app, look & feel
+[23:42:41]: xPath of LANGUAGE_BUTTON
+[23:42:41]: Display Pre-Login Page, click on Explore Now button
+[23:42:42]: xPath of EXPLORE_BUTTON
+[23:42:45]: Display Home Page
+[23:42:45]: checkInteractionOnExploreNowButton - Passed
+[23:42:45]: ================ NEXT TESTCASE ======================
+[23:42:46]: ********************** END TEST ************************
+

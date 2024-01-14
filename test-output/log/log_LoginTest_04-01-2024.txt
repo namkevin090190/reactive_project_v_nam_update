@@ -1,0 +1,15 @@
+
+FinX - Test log reported.
+ =============================================
+
+[00:22:19]: Start Test: LoginTest
+[00:22:21]: Start iOS App
+[00:22:21]: - Run with Real Mobile device
+[00:22:21]: - Check FinX Mobile App
+[00:22:44]: Open app, input correct password & login success
+[00:22:45]: Display Forgot PIN button, start input correct password
+[00:22:58]: Display Login - Input Phone Number Page
+[00:22:58]: checkLoginSuccess - Passed
+[00:22:59]: ================ NEXT TESTCASE ======================
+[00:23:00]: ********************** END TEST ************************
+

@@ -1,0 +1,160 @@
+
+FinX - Test log reported.
+ =============================================
+
+[00:17:31]: Start Test: LoginTest
+[00:17:35]: - Run with Emulator - Mobile
+[00:17:35]: - Check FinX Mobile App
+[00:17:41]: Started Android App
+[00:17:47]: Open app, look & feel
+[00:17:49]: xPath of LANGUAGE_BUTTON
+[00:17:49]: Display Pre-Login Page, click on Explore Now button
+[00:17:50]: xPath of EXPLORE_BUTTON
+[00:17:53]: Display Home Page
+[00:17:53]: checkInteractionOnExploreNowButton - Passed
+[00:17:53]: ================ NEXT TESTCASE ======================
+[00:17:53]: ********************** END TEST ************************
+
+[09:23:33]: Start Test: LoginTest
+[09:23:36]: Start iOS App
+[09:23:36]: - Run with Real Mobile device
+[09:23:36]: - Check FinX Mobile App
+[09:23:36]: Can't start iOS App, please check - Connection refused (Connection refused)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ip-172-16-0-206.ap-southeast-1.compute.internal', ip: 'fe80:0:0:0:14c1:6ffc:327f:ab05%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.2', java.version: '1.8.0_371'
+Driver info: driver.version: IOSDriver
+[09:50:29]: Start Test: LoginTest
+[09:50:31]: Start iOS App
+[09:50:31]: - Run with Real Mobile device
+[09:50:31]: - Check FinX Mobile App
+[09:50:31]: Can't start iOS App, please check - Unable to create a new remote session. Please check the server log for more details. Original error: The requested resource could not be found, or a request was received using an HTTP method that is not supported by the mapped resource (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 91 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ip-172-16-0-206.ap-southeast-1.compute.internal', ip: 'fe80:0:0:0:14c1:6ffc:327f:ab05%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.2', java.version: '1.8.0_371'
+Driver info: driver.version: IOSDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ip-172-16-0-206.ap-southeast-1.compute.internal', ip: 'fe80:0:0:0:14c1:6ffc:327f:ab05%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.2', java.version: '1.8.0_371'
+Driver info: driver.version: IOSDriver
+[09:53:20]: Start Test: LoginTest
+[09:53:23]: Start iOS App
+[09:53:23]: - Run with Real Mobile device
+[09:53:23]: - Check FinX Mobile App
+[09:53:26]: Can't start iOS App, please check - Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: '15.0' does not exist in the list of simctl SDKs. Only the following Simulator SDK versions are available on your system: 17.2
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ip-172-16-0-206.ap-southeast-1.compute.internal', ip: 'fe80:0:0:0:14c1:6ffc:327f:ab05%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.2', java.version: '1.8.0_371'
+Driver info: driver.version: IOSDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: '15.0' does not exist in the list of simctl SDKs. Only the following Simulator SDK versions are available on your system: 17.2
+    at getResponseForW3CError (/usr/local/lib/node_modules/appium/node_modules/@appium/base-driver/lib/protocol/errors.js:1097:9)
+    at asyncHandler (/usr/local/lib/node_modules/appium/node_modules/@appium/base-driver/lib/protocol/protocol.js:491:57)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ip-172-16-0-206.ap-southeast-1.compute.internal', ip: 'fe80:0:0:0:14c1:6ffc:327f:ab05%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.2', java.version: '1.8.0_371'
+Driver info: driver.version: IOSDriver
+[09:57:19]: Start Test: LoginTest
+[09:57:21]: Start iOS App
+[09:57:21]: - Run with Real Mobile device
+[09:57:21]: - Check FinX Mobile App
+[09:58:04]: Open app, look & feel
+[09:58:06]: xPath of LANGUAGE_BUTTON
+[09:58:06]: Display Pre-Login Page, click on Explore Now button
+[09:58:08]: xPath of EXPLORE_BUTTON
+[09:58:10]: Display Home Page
+[09:58:10]: checkInteractionOnExploreNowButton - Passed
+[09:58:12]: ================ NEXT TESTCASE ======================
+[09:58:12]: ********************** END TEST ************************
+
+[10:21:08]: Start Test: LoginTest
+[10:21:11]: Start iOS App
+[10:21:11]: - Run with Real Mobile device
+[10:21:11]: - Check FinX Mobile App
+[10:21:13]: Can't start iOS App, please check - Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: The port #8100 is occupied by an other process. You can either quit that process or select another free port.
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ip-172-16-0-206.ap-southeast-1.compute.internal', ip: 'fe80:0:0:0:14c1:6ffc:327f:ab05%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.2', java.version: '1.8.0_371'
+Driver info: driver.version: IOSDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: The port #8100 is occupied by an other process. You can either quit that process or select another free port.
+    at getResponseForW3CError (/usr/local/lib/node_modules/appium/node_modules/@appium/base-driver/lib/protocol/errors.js:1097:9)
+    at asyncHandler (/usr/local/lib/node_modules/appium/node_modules/@appium/base-driver/lib/protocol/protocol.js:491:57)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ip-172-16-0-206.ap-southeast-1.compute.internal', ip: 'fe80:0:0:0:14c1:6ffc:327f:ab05%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.2', java.version: '1.8.0_371'
+Driver info: driver.version: IOSDriver
+[10:21:32]: Start Test: LoginTest
+[10:21:34]: Start iOS App
+[10:21:34]: - Run with Real Mobile device
+[10:21:34]: - Check FinX Mobile App
+[10:21:45]: Open app, input correct password & login success
+[10:21:46]: Display Forgot PIN button, start input correct password
+[10:21:58]: Display Login - Input Phone Number Page
+[10:21:58]: checkLoginSuccess - Passed
+[10:21:59]: ================ NEXT TESTCASE ======================
+[10:22:00]: ********************** END TEST ************************
+
+[10:56:06]: Start Test: LoginTest
+[10:56:08]: Start iOS App
+[10:56:08]: - Run with Real Mobile device
+[10:56:08]: - Check FinX Mobile App
+[10:56:17]: Open app, input correct password & login success
+[10:56:20]: xPath of FORGOTPIN_BUTTON
+[10:56:20]: Don't display Pre-login page
+[10:56:20]: Failed at checkLoginSuccess
+[10:56:20]: Failed by java.lang.AssertionError: expected [true] but found [false]
+[10:56:21]: ================ NEXT TESTCASE ======================
+[10:56:22]: ********************** END TEST ************************
+
+[11:08:58]: Start Test: LoginTest
+[11:09:01]: Start iOS App
+[11:09:01]: - Run with Real Mobile device
+[11:09:01]: - Check FinX Mobile App
+[11:09:24]: Open app, input correct password & login success
+[11:09:26]: xPath of FORGOTPIN_BUTTON
+[11:09:26]: Don't display Pre-login page
+[11:09:26]: Failed at checkLoginSuccess
+[11:09:26]: Failed by java.lang.AssertionError: expected [true] but found [false]
+[11:09:27]: ================ NEXT TESTCASE ======================
+[11:09:28]: ********************** END TEST ************************
+
+[11:12:25]: Start Test: LoginTest
+[11:12:27]: Start iOS App
+[11:12:27]: - Run with Real Mobile device
+[11:12:27]: - Check FinX Mobile App
+[11:12:28]: Can't start iOS App, please check - Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: The port #8100 is occupied by an other process. You can either quit that process or select another free port.
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ip-172-16-0-206.ap-southeast-1.compute.internal', ip: 'fe80:0:0:0:14c1:6ffc:327f:ab05%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.2', java.version: '1.8.0_371'
+Driver info: driver.version: IOSDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: The port #8100 is occupied by an other process. You can either quit that process or select another free port.
+    at getResponseForW3CError (/usr/local/lib/node_modules/appium/node_modules/@appium/base-driver/lib/protocol/errors.js:1097:9)
+    at asyncHandler (/usr/local/lib/node_modules/appium/node_modules/@appium/base-driver/lib/protocol/protocol.js:491:57)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ip-172-16-0-206.ap-southeast-1.compute.internal', ip: 'fe80:0:0:0:14c1:6ffc:327f:ab05%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.2', java.version: '1.8.0_371'
+Driver info: driver.version: IOSDriver
+[11:13:02]: Start Test: LoginTest
+[11:13:05]: Start iOS App
+[11:13:05]: - Run with Real Mobile device
+[11:13:05]: - Check FinX Mobile App
+[11:13:15]: Open app, input correct password & login success
+[11:13:16]: Display Forgot PIN button, start input correct password
+[11:13:29]: Display Login - Input Phone Number Page
+[11:13:29]: checkLoginSuccess - Passed
+[11:13:31]: ================ NEXT TESTCASE ======================
+[11:13:31]: ********************** END TEST ************************
+
+[11:26:44]: Start Test: LoginTest
+[11:26:46]: Start iOS App
+[11:26:46]: - Run with Real Mobile device
+[11:26:46]: - Check FinX Mobile App
+[11:26:53]: Open app, input correct password & login success
+[11:26:55]: Display Forgot PIN button, start input correct password
+[11:27:08]: Display Login - Input Phone Number Page
+[11:27:08]: checkLoginSuccess - Passed
+[11:27:10]: ================ NEXT TESTCASE ======================
+[11:27:10]: ********************** END TEST ************************
+
+[11:29:44]: Start Test: LoginTest
+[11:29:46]: Start iOS App
+[11:29:46]: - Run with Real Mobile device
+[11:29:46]: - Check FinX Mobile App
+[11:29:56]: Open app, input correct password & login success
+[11:29:57]: Display Forgot PIN button, start input correct password
+[11:30:10]: Display Login - Input Phone Number Page
+[11:30:10]: checkLoginSuccess - Passed
+[11:30:11]: ================ NEXT TESTCASE ======================
+[11:30:11]: ********************** END TEST ************************
+

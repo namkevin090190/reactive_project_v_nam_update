@@ -1,0 +1,37 @@
+
+FinX - Test log reported.
+ =============================================
+
+[00:36:12]: Start Test: LoginTest
+[00:36:14]: Start iOS App
+[00:36:14]: - Run with Real Mobile device
+[00:36:14]: - Check FinX Mobile App
+[00:36:24]: Open app, input correct password & login success
+[00:36:25]: Display One button, start input correct password
+[00:36:39]: Display Login - Input Phone Number Page
+[00:36:39]: checkLoginSuccess - Passed
+[00:36:40]: ================ NEXT TESTCASE ======================
+[00:36:40]: ********************** END TEST ************************
+
+[00:56:20]: Start Test: LoginTest
+[00:56:22]: Start iOS App
+[00:56:22]: - Run with Real Mobile device
+[00:56:22]: - Check FinX Mobile App
+[00:56:31]: Open app, input correct password & login success
+[00:56:32]: Display One button, start input correct password
+[00:56:45]: Display Login - Input Phone Number Page
+[00:56:45]: checkLoginSuccess - Passed
+[00:56:46]: ================ NEXT TESTCASE ======================
+[00:56:46]: ********************** END TEST ************************
+
+[02:43:36]: Start Test: LoginTest
+[02:43:38]: Start iOS App
+[02:43:38]: - Run with Real Mobile device
+[02:43:38]: - Check FinX Mobile App
+[02:43:47]: Open app, input correct password & login success
+[02:43:48]: Display One button, start input correct password
+[02:44:00]: Display Login - Input Phone Number Page
+[02:44:00]: checkLoginSuccess - Passed
+[02:44:01]: ================ NEXT TESTCASE ======================
+[02:44:02]: ********************** END TEST ************************
+

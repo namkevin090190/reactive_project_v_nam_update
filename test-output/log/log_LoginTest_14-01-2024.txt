@@ -1,0 +1,18 @@
+
+FinX - Test log reported.
+ =============================================
+
+[23:44:47]: Start Test: LoginTest
+[23:44:49]: Start iOS App
+[23:44:49]: - Run with Real Mobile device
+[23:44:49]: - Check FinX Mobile App
+[23:44:51]: Can't start iOS App, please check - Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: Unknown device or simulator UDID: '12fe16dc353531f7ceb77baf7d4c0f6c1b538e4c'
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Nams-MacBook-Pro.local', ip: 'fe80:0:0:0:18b2:cee8:9d54:65d9%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.2', java.version: '1.8.0_371'
+Driver info: driver.version: IOSDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: Unknown device or simulator UDID: '12fe16dc353531f7ceb77baf7d4c0f6c1b538e4c'
+    at getResponseForW3CError (/usr/local/lib/node_modules/appium/node_modules/@appium/base-driver/lib/protocol/errors.js:1097:9)
+    at asyncHandler (/usr/local/lib/node_modules/appium/node_modules/@appium/base-driver/lib/protocol/protocol.js:491:57)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Nams-MacBook-Pro.local', ip: 'fe80:0:0:0:18b2:cee8:9d54:65d9%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.2', java.version: '1.8.0_371'
+Driver info: driver.version: IOSDriver

@@ -1,0 +1,19 @@
+
+FinX - Test log reported.
+ =============================================
+
+[17:27:47]: Start Test: LoginTest
+[17:27:49]: - Run with Emulator - Mobile
+[17:27:49]: - Check FinX Mobile App
+[17:27:59]: Started Android App
+[17:28:05]: Open app, look & feel
+[17:28:06]: Failed at checkAllObjectDisplayOnPreLoginUI
+[17:28:06]: Failed by org.openqa.selenium.remote.ScreenshotException: Screen shot has been taken
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ip-172-16-1-17.ap-southeast-1.compute.internal', ip: 'fe80:0:0:0:1470:488a:6132:a0d3%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.2', java.version: '1.8.0_371'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.galaxyfinx.vikki.MainAc..., appPackage: com.galaxyfinx.vikki.sit, automationName: UIAutomator2, databaseEnabled: false, desired: {appActivity: com.galaxyfinx.vikki.MainAc..., appPackage: com.galaxyfinx.vikki.sit, automationName: UIAutomator2, deviceName: , nativeWebScreenshot: true, newCommandTimeout: 500, noReset: false, platformName: android, platformVersion: 9.0, udid: emulator-5554}, deviceApiLevel: 33, deviceManufacturer: Google, deviceModel: sdk_gphone64_arm64, deviceName: emulator-5554, deviceScreenDensity: 560, deviceScreenSize: 1440x3120, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, nativeWebScreenshot: true, networkConnectionEnabled: true, newCommandTimeout: 500, noReset: false, pixelRatio: 3.5, platform: LINUX, platformName: Android, platformVersion: 13, statBarHeight: 84, takesScreenshot: true, udid: emulator-5554, viewportRect: {height: 2952, left: 0, top: 84, width: 1440}, warnings: {}, webStorageEnabled: false}
+Session ID: 0d062b04-5677-42ad-8a3f-f8fb72546b66
+[17:28:06]: ================ NEXT TESTCASE ======================
+[17:28:07]: ********************** END TEST ************************
+

@@ -1,0 +1,247 @@
+
+FinX - Test log reported.
+ =============================================
+
+[00:34:07]: Start Test: QRPaymentUITest
+[00:34:09]: Start iOS App
+[00:34:09]: - Run with Real Mobile device
+[00:34:09]: - Check FinX Mobile App
+[00:34:20]: Open app, look & feel
+[00:34:20]: Failed at TC_QRPayment_DisplayQuetMaQR
+[00:34:20]: Failed by java.lang.NullPointerException
+[00:34:21]: ================ NEXT TESTCASE ======================
+[00:34:22]: ********************** END TEST ************************
+
+[00:37:48]: Start Test: QRPaymentUITest
+[00:37:51]: Start iOS App
+[00:37:51]: - Run with Real Mobile device
+[00:37:51]: - Check FinX Mobile App
+[00:38:01]: Open app, look & feel
+[00:38:01]: Failed at TC_QRPayment_DisplayQuetMaQR
+[00:38:01]: Failed by java.lang.NullPointerException
+[00:38:02]: ================ NEXT TESTCASE ======================
+[00:38:03]: ********************** END TEST ************************
+
+[00:39:45]: Start Test: QRPaymentUITest
+[00:39:48]: Start iOS App
+[00:39:48]: - Run with Real Mobile device
+[00:39:48]: - Check FinX Mobile App
+[00:39:58]: Open app, look & feel
+[00:39:58]: xPath of ONE_BUTTON
+[00:39:58]: Failed at TC_QRPayment_DisplayQuetMaQR
+[00:39:58]: Failed by java.lang.NullPointerException
+[00:39:59]: ================ NEXT TESTCASE ======================
+[00:40:00]: ********************** END TEST ************************
+
+[00:40:59]: Start Test: QRPaymentUITest
+[00:41:01]: Start iOS App
+[00:41:01]: - Run with Real Mobile device
+[00:41:01]: - Check FinX Mobile App
+[00:41:11]: Open app, look & feel
+[00:41:11]: xPath of ONE_BUTTON
+[00:41:11]: Failed at TC_QRPayment_DisplayQuetMaQR
+[00:41:11]: Failed by java.lang.AssertionError: expected [true] but found [false]
+[00:41:12]: ================ NEXT TESTCASE ======================
+[00:41:13]: ********************** END TEST ************************
+
+[00:42:07]: Start Test: QRPaymentUITest
+[00:42:09]: Start iOS App
+[00:42:09]: - Run with Real Mobile device
+[00:42:09]: - Check FinX Mobile App
+[00:42:19]: Open app, look & feel
+[00:42:19]: xPath of ONE_BUTTON
+[00:42:20]: xPath of QUET_MA_QR_BUTTON
+[00:42:20]: Don't display Quét Mã QR Button
+[00:42:20]: Failed at TC_QRPayment_DisplayQuetMaQR
+[00:42:20]: Failed by java.lang.AssertionError: expected [true] but found [false]
+[00:42:21]: ================ NEXT TESTCASE ======================
+[00:42:22]: ********************** END TEST ************************
+
+[00:57:48]: Start Test: QRPaymentUITest
+[00:57:50]: Start iOS App
+[00:57:50]: - Run with Real Mobile device
+[00:57:50]: - Check FinX Mobile App
+[00:58:00]: Open app, look & feel
+[00:58:11]: xPath of QUET_MA_QR_BUTTON
+[00:58:11]: Don't display Quét Mã QR Button
+[00:58:11]: Failed at TC_QRPayment_DisplayQuetMaQR
+[00:58:11]: Failed by java.lang.AssertionError: expected [true] but found [false]
+[00:58:12]: ================ NEXT TESTCASE ======================
+[00:58:13]: ********************** END TEST ************************
+
+[01:02:46]: Start Test: QRPaymentUITest
+[01:02:48]: Start iOS App
+[01:02:48]: - Run with Real Mobile device
+[01:02:48]: - Check FinX Mobile App
+[01:02:56]: Open app, look & feel
+[01:02:58]: xPath of BTN_ONE
+[01:03:01]: xPath of BTN_ONE
+[01:03:04]: xPath of BTN_TWO
+[01:03:06]: xPath of BTN_TWO
+[01:03:08]: xPath of BTN_TWO
+[01:03:10]: xPath of BTN_TWO
+[01:03:13]: xPath of QUET_MA_QR_BUTTON
+[01:03:13]: Don't display Quét Mã QR Button
+[01:03:13]: Failed at TC_QRPayment_DisplayQuetMaQR
+[01:03:13]: Failed by java.lang.AssertionError: expected [true] but found [false]
+[01:03:14]: ================ NEXT TESTCASE ======================
+[01:03:15]: ********************** END TEST ************************
+
+[01:07:21]: Start Test: QRPaymentUITest
+[01:07:23]: Start iOS App
+[01:07:23]: - Run with Real Mobile device
+[01:07:23]: - Check FinX Mobile App
+[01:07:33]: Open app, look & feel
+[01:07:43]: xPath of QUET_MA_QR_BUTTON
+[01:07:43]: Don't display Quét Mã QR Button
+[01:07:43]: Failed at TC_QRPayment_DisplayQuetMaQR
+[01:07:43]: Failed by java.lang.AssertionError: expected [true] but found [false]
+[01:07:44]: ================ NEXT TESTCASE ======================
+[01:07:45]: ********************** END TEST ************************
+
+[01:09:13]: Start Test: QRPaymentUITest
+[01:09:15]: Start iOS App
+[01:09:15]: - Run with Real Mobile device
+[01:09:15]: - Check FinX Mobile App
+[01:09:25]: Open app, look & feel
+[01:09:36]: xPath of QUET_MA_QR_BUTTON
+[01:09:36]: Don't display Quét Mã QR Button
+[01:09:36]: Failed at TC_QRPayment_DisplayQuetMaQR
+[01:09:36]: Failed by java.lang.AssertionError: expected [true] but found [false]
+[01:09:37]: ================ NEXT TESTCASE ======================
+[01:09:40]: ********************** END TEST ************************
+
+[01:33:51]: Start Test: QRPaymentUITest
+[01:33:53]: Start iOS App
+[01:33:53]: - Run with Real Mobile device
+[01:33:53]: - Check FinX Mobile App
+[01:34:02]: Open app, look & feel
+[01:34:13]: xPath of QUET_MA_QR_BUTTON
+[01:34:13]: Don't display Quét Mã QR Button
+[01:34:13]: Failed at TC_QRPayment_DisplayQuetMaQR
+[01:34:13]: Failed by java.lang.AssertionError: expected [true] but found [false]
+[01:34:14]: ================ NEXT TESTCASE ======================
+[01:34:15]: ********************** END TEST ************************
+
+[01:41:08]: Start Test: QRPaymentUITest
+[01:41:10]: Start iOS App
+[01:41:10]: - Run with Real Mobile device
+[01:41:10]: - Check FinX Mobile App
+[01:41:11]: Can't start iOS App, please check - Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: The port #8100 is occupied by an other process. You can either quit that process or select another free port.
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ip-192-168-1-5.ap-southeast-1.compute.internal', ip: 'fe80:0:0:0:14c1:6ffc:327f:ab05%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.2', java.version: '1.8.0_371'
+Driver info: driver.version: IOSDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: The port #8100 is occupied by an other process. You can either quit that process or select another free port.
+    at getResponseForW3CError (/usr/local/lib/node_modules/appium/node_modules/@appium/base-driver/lib/protocol/errors.js:1097:9)
+    at asyncHandler (/usr/local/lib/node_modules/appium/node_modules/@appium/base-driver/lib/protocol/protocol.js:491:57)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ip-192-168-1-5.ap-southeast-1.compute.internal', ip: 'fe80:0:0:0:14c1:6ffc:327f:ab05%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.2', java.version: '1.8.0_371'
+Driver info: driver.version: IOSDriver
+[01:41:25]: Start Test: QRPaymentUITest
+[01:41:27]: Start iOS App
+[01:41:27]: - Run with Real Mobile device
+[01:41:27]: - Check FinX Mobile App
+[01:41:37]: Open app, look & feel
+[01:41:48]: xPath of QUET_MA_QR_BUTTON
+[01:41:48]: Don't display Quét Mã QR Button
+[01:41:48]: Failed at TC_QRPayment_DisplayQuetMaQR
+[01:41:48]: Failed by java.lang.AssertionError: expected [true] but found [false]
+[01:41:49]: ================ NEXT TESTCASE ======================
+[01:41:50]: ********************** END TEST ************************
+
+[02:00:12]: Start Test: QRPaymentUITest
+[02:00:14]: Start iOS App
+[02:00:14]: - Run with Real Mobile device
+[02:00:14]: - Check FinX Mobile App
+[02:00:23]: Open app, look & feel
+[02:00:35]: xPath of QUET_MA_QR_BUTTON
+[02:00:35]: Don't display Quét Mã QR Button
+[02:00:35]: Failed at TC_QRPayment_DisplayQuetMaQR
+[02:00:35]: Failed by java.lang.AssertionError: expected [true] but found [false]
+[02:00:37]: ================ NEXT TESTCASE ======================
+[02:00:37]: ********************** END TEST ************************
+
+[02:14:49]: Start Test: QRPaymentUITest
+[02:14:51]: Start iOS App
+[02:14:51]: - Run with Real Mobile device
+[02:14:51]: - Check FinX Mobile App
+[02:15:02]: Open app, look & feel
+[02:15:12]: xPath of QUET_MA_QR_BUTTON
+[02:15:12]: Don't display Quét Mã QR Button
+[02:15:12]: Failed at TC_QRPayment_DisplayQuetMaQR
+[02:15:12]: Failed by java.lang.AssertionError: expected [true] but found [false]
+[02:15:13]: ================ NEXT TESTCASE ======================
+[02:15:14]: ********************** END TEST ************************
+
+[02:20:26]: Start Test: QRPaymentUITest
+[02:20:28]: Start iOS App
+[02:20:28]: - Run with Real Mobile device
+[02:20:28]: - Check FinX Mobile App
+[02:20:36]: Open app, look & feel
+[02:20:48]: xPath of QUET_MA_QR_BUTTON
+[02:20:48]: Don't display Quét Mã QR Button
+[02:20:48]: Failed at TC_QRPayment_DisplayQuetMaQR
+[02:20:48]: Failed by java.lang.AssertionError: expected [true] but found [false]
+[02:20:49]: ================ NEXT TESTCASE ======================
+[02:20:50]: ********************** END TEST ************************
+
+[02:22:38]: Start Test: QRPaymentUITest
+[02:22:40]: Start iOS App
+[02:22:40]: - Run with Real Mobile device
+[02:22:40]: - Check FinX Mobile App
+[02:22:49]: Open app, look & feel
+[02:23:00]: xPath of QUET_MA_QR_BUTTON
+[02:23:00]: Don't display Quét Mã QR Button
+[02:23:00]: Failed at TC_QRPayment_DisplayQuetMaQR
+[02:23:00]: Failed by java.lang.AssertionError: expected [true] but found [false]
+[02:23:01]: ================ NEXT TESTCASE ======================
+[02:23:02]: ********************** END TEST ************************
+
+[02:31:29]: Start Test: QRPaymentUITest
+[02:31:31]: Start iOS App
+[02:31:31]: - Run with Real Mobile device
+[02:31:31]: - Check FinX Mobile App
+[02:31:42]: Open app, look & feel
+[02:31:52]: xPath of QUET_MA_QR_BUTTON
+[02:31:52]: Don't display Quét Mã QR Button
+[02:31:52]: Failed at TC_QRPayment_DisplayQuetMaQR
+[02:31:52]: Failed by java.lang.AssertionError: expected [true] but found [false]
+[02:31:53]: ================ NEXT TESTCASE ======================
+[02:31:54]: ********************** END TEST ************************
+
+[02:32:45]: Start Test: QRPaymentUITest
+[02:32:48]: Start iOS App
+[02:32:48]: - Run with Real Mobile device
+[02:32:48]: - Check FinX Mobile App
+[02:32:58]: Open app, look & feel
+[02:33:09]: xPath of QUET_MA_QR_BUTTON
+[02:33:09]: Don't display Quét Mã QR Button
+[02:33:09]: Failed at TC_QRPayment_DisplayQuetMaQR
+[02:33:09]: Failed by java.lang.AssertionError: expected [true] but found [false]
+[02:33:10]: ================ NEXT TESTCASE ======================
+[02:33:11]: ********************** END TEST ************************
+
+[02:35:12]: Start Test: QRPaymentUITest
+[02:35:14]: Start iOS App
+[02:35:14]: - Run with Real Mobile device
+[02:35:14]: - Check FinX Mobile App
+[02:35:23]: Open app, look & feel
+[02:35:35]: xPath of QUET_MA_QR_BUTTON
+[02:35:35]: Don't display Quét Mã QR Button
+[02:35:35]: Failed at TC_QRPayment_DisplayQuetMaQR
+[02:35:35]: Failed by java.lang.AssertionError: expected [true] but found [false]
+[02:35:36]: ================ NEXT TESTCASE ======================
+[02:35:37]: ********************** END TEST ************************
+
+[02:42:25]: Start Test: QRPaymentUITest
+[02:42:27]: Start iOS App
+[02:42:27]: - Run with Real Mobile device
+[02:42:27]: - Check FinX Mobile App
+[02:42:37]: Open app, look & feel
+[02:42:50]: xPath of QUET_MA_QR_BUTTON
+[02:42:50]: Don't display Quét Mã QR Button
+[02:42:50]: Failed at TC_QRPayment_DisplayQuetMaQR
+[02:42:50]: Failed by java.lang.AssertionError: expected [true] but found [false]
+[02:42:51]: ================ NEXT TESTCASE ======================
+[02:42:52]: ********************** END TEST ************************
+

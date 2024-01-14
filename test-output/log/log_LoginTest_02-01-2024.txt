@@ -1,0 +1,100 @@
+
+FinX - Test log reported.
+ =============================================
+
+[00:03:48]: Start Test: LoginTest
+[00:03:51]: - Run with Emulator - Mobile
+[00:03:51]: - Check FinX Mobile App
+[00:03:58]: Started Android App
+[00:04:04]: Open app, look & feel
+[00:04:05]: xPath of LANGUAGE_BUTTON
+[00:04:05]: Display Pre-Login Page, click on Explore Now button
+[00:04:06]: xPath of EXPLORE_BUTTON
+[00:04:09]: Display Home Page
+[00:04:09]: checkInteractionOnExploreNowButton - Passed
+[00:04:09]: ================ NEXT TESTCASE ======================
+[00:04:09]: ********************** END TEST ************************
+
+[01:56:17]: Start Test: LoginTest
+[01:56:19]: - Run with Emulator - Mobile
+[01:56:19]: - Check FinX Mobile App
+[01:56:19]: Can't start Android App, please check - Connection refused (Connection refused)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Nams-MacBook-Pro.local', ip: 'fe80:0:0:0:14c1:6ffc:327f:ab05%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.2', java.version: '1.8.0_371'
+Driver info: driver.version: AndroidDriver
+[01:57:21]: Start Test: LoginTest
+[01:57:23]: - Run with Emulator - Mobile
+[01:57:23]: - Check FinX Mobile App
+[01:57:30]: Started Android App
+[01:57:36]: Open app, look & feel
+[01:57:37]: xPath of LANGUAGE_BUTTON
+[01:57:37]: Display Pre-Login Page, click on Explore Now button
+[01:57:38]: xPath of EXPLORE_BUTTON
+[01:57:41]: Display Home Page
+[01:57:41]: checkInteractionOnExploreNowButton - Passed
+[01:57:41]: ================ NEXT TESTCASE ======================
+[01:57:42]: ********************** END TEST ************************
+
+[23:09:58]: Start Test: LoginTest
+[23:10:00]: - Run with Emulator - Mobile
+[23:10:00]: - Check FinX Mobile App
+[23:10:00]: Can't start Android App, please check - Connection refused (Connection refused)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ip-192-168-1-4.ap-southeast-1.compute.internal', ip: 'fe80:0:0:0:14c1:6ffc:327f:ab05%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.2', java.version: '1.8.0_371'
+Driver info: driver.version: AndroidDriver
+[23:13:10]: Start Test: LoginTest
+[23:13:13]: - Run with Emulator - Mobile
+[23:13:13]: - Check FinX Mobile App
+[23:13:14]: Can't start Android App, please check - Connection refused (Connection refused)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ip-192-168-1-4.ap-southeast-1.compute.internal', ip: 'fe80:0:0:0:14c1:6ffc:327f:ab05%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.2', java.version: '1.8.0_371'
+Driver info: driver.version: AndroidDriver
+[23:17:05]: Start Test: LoginTest
+[23:17:07]: - Run with Emulator - Mobile
+[23:17:07]: - Check FinX Mobile App
+[23:17:07]: Can't start Android App, please check - Connection refused (Connection refused)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ip-192-168-1-4.ap-southeast-1.compute.internal', ip: 'fe80:0:0:0:14c1:6ffc:327f:ab05%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.2', java.version: '1.8.0_371'
+Driver info: driver.version: AndroidDriver
+[23:37:24]: Start Test: LoginTest
+[23:37:26]: - Run with Emulator - Mobile
+[23:37:26]: - Check FinX Mobile App
+[23:37:26]: Can't start Android App, please check - Connection refused (Connection refused)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ip-192-168-1-4.ap-southeast-1.compute.internal', ip: 'fe80:0:0:0:14c1:6ffc:327f:ab05%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.2', java.version: '1.8.0_371'
+Driver info: driver.version: AndroidDriver
+[23:39:22]: Start Test: LoginTest
+[23:39:26]: - Run with Emulator - Mobile
+[23:39:26]: - Check FinX Mobile App
+[23:39:26]: Can't start Android App, please check - Unable to create a new remote session. Please check the server log for more details. Original error: The requested resource could not be found, or a request was received using an HTTP method that is not supported by the mapped resource (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 114 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ip-192-168-1-4.ap-southeast-1.compute.internal', ip: 'fe80:0:0:0:14c1:6ffc:327f:ab05%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.2', java.version: '1.8.0_371'
+Driver info: driver.version: AndroidDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ip-192-168-1-4.ap-southeast-1.compute.internal', ip: 'fe80:0:0:0:14c1:6ffc:327f:ab05%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.2', java.version: '1.8.0_371'
+Driver info: driver.version: AndroidDriver
+[23:41:36]: Start Test: LoginTest
+[23:41:38]: - Run with Emulator - Mobile
+[23:41:38]: - Check FinX Mobile App
+[23:41:38]: Can't start Android App, please check - Unable to create a new remote session. Please check the server log for more details. Original error: The requested resource could not be found, or a request was received using an HTTP method that is not supported by the mapped resource (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 119 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ip-192-168-1-4.ap-southeast-1.compute.internal', ip: 'fe80:0:0:0:14c1:6ffc:327f:ab05%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.2', java.version: '1.8.0_371'
+Driver info: driver.version: AndroidDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ip-192-168-1-4.ap-southeast-1.compute.internal', ip: 'fe80:0:0:0:14c1:6ffc:327f:ab05%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.2', java.version: '1.8.0_371'
+Driver info: driver.version: AndroidDriver
+[23:43:41]: Start Test: LoginTest
+[23:43:43]: - Run with Emulator - Mobile
+[23:43:43]: - Check FinX Mobile App
+[23:43:48]: Started Android App
+[23:43:54]: Open app, look & feel
+[23:43:56]: xPath of LANGUAGE_BUTTON
+[23:43:56]: Display Pre-Login Page, click on Explore Now button
+[23:43:57]: xPath of EXPLORE_BUTTON
+[23:44:00]: Display Home Page
+[23:44:00]: checkInteractionOnExploreNowButton - Passed
+[23:44:00]: ================ NEXT TESTCASE ======================
+[23:44:01]: ********************** END TEST ************************
+

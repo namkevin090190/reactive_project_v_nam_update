@@ -1,0 +1,27 @@
+
+FinX - Test log reported.
+ =============================================
+
+[22:13:28]: Start Test: LoginTest
+[22:13:32]: Start iOS App
+[22:13:32]: - Run with Real Mobile device
+[22:13:32]: - Check FinX Mobile App
+[22:13:57]: Open app, look & feel
+[22:13:59]: xPath of LANGUAGE_BUTTON
+[22:13:59]: Display Pre-login page
+[22:14:00]: xPath of LANGUAGE_BUTTON
+[22:14:01]: xPath of LANGUAGE_BUTTON
+[22:14:01]: Display Language option: 
+[22:14:03]: xPath of EXPLORE_BUTTON
+[22:14:04]: xPath of EXPLORE_BUTTON
+[22:14:04]: Display Explore Now button: 
+[22:14:06]: xPath of CREATE_ACCOUNT_BUTTON
+[22:14:07]: xPath of CREATE_ACCOUNT_BUTTON
+[22:14:07]: Display Create Account button: 
+[22:14:08]: xPath of LOGIN_LINK
+[22:14:11]: xPath of LOGIN_LINK
+[22:14:11]: Display Login Link: 
+[22:14:11]: checkAllObjectDisplayOnPreLoginUI - Passed
+[22:14:12]: ================ NEXT TESTCASE ======================
+[22:14:12]: ********************** END TEST ************************
+

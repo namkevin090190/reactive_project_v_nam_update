@@ -1,0 +1,103 @@
+
+FinX - Test log reported.
+ =============================================
+
+[03:34:51]: Start Test: LoginTest
+[03:34:54]: - Run with Emulator - Mobile
+[03:34:54]: - Check FinX Mobile App
+[03:34:55]: Can't start Android App, please check - Connection refused (Connection refused)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Nams-MacBook-Pro.local', ip: 'fe80:0:0:0:1470:488a:6132:a0d3%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.2', java.version: '1.8.0_371'
+Driver info: driver.version: AndroidDriver
+[03:37:32]: Start Test: LoginTest
+[03:37:34]: - Run with Emulator - Mobile
+[03:37:34]: - Check FinX Mobile App
+[03:37:35]: Can't start Android App, please check - Connection refused (Connection refused)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Nams-MacBook-Pro.local', ip: 'fe80:0:0:0:1470:488a:6132:a0d3%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.2', java.version: '1.8.0_371'
+Driver info: driver.version: AndroidDriver
+[04:01:45]: Start Test: LoginTest
+[04:01:47]: - Run with Emulator - Mobile
+[04:01:47]: - Check FinX Mobile App
+[04:01:47]: Can't start Android App, please check - Connection refused (Connection refused)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Nams-MacBook-Pro.local', ip: 'fe80:0:0:0:1470:488a:6132:a0d3%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.2', java.version: '1.8.0_371'
+Driver info: driver.version: AndroidDriver
+[04:15:29]: Start Test: LoginTest
+[04:15:31]: - Run with Emulator - Mobile
+[04:15:31]: - Check FinX Mobile App
+[04:15:31]: Can't start Android App, please check - Connection refused (Connection refused)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Nams-MacBook-Pro.local', ip: 'fe80:0:0:0:1470:488a:6132:a0d3%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.2', java.version: '1.8.0_371'
+Driver info: driver.version: AndroidDriver
+[04:53:12]: Start Test: LoginTest
+[04:53:14]: - Run with Emulator - Mobile
+[04:53:14]: - Check FinX Mobile App
+[04:53:15]: Can't start Android App, please check - Unable to create a new remote session. Please check the server log for more details. Original error: The requested resource could not be found, or a request was received using an HTTP method that is not supported by the mapped resource (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 127 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Nams-MacBook-Pro.local', ip: 'fe80:0:0:0:1470:488a:6132:a0d3%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.2', java.version: '1.8.0_371'
+Driver info: driver.version: AndroidDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Nams-MacBook-Pro.local', ip: 'fe80:0:0:0:1470:488a:6132:a0d3%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.2', java.version: '1.8.0_371'
+Driver info: driver.version: AndroidDriver
+[05:01:26]: Start Test: LoginTest
+[05:01:28]: - Run with Emulator - Mobile
+[05:01:28]: - Check FinX Mobile App
+[05:01:29]: Can't start Android App, please check - Unable to create a new remote session. Please check the server log for more details. Original error: The requested resource could not be found, or a request was received using an HTTP method that is not supported by the mapped resource (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 112 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Nams-MacBook-Pro.local', ip: 'fe80:0:0:0:1470:488a:6132:a0d3%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.2', java.version: '1.8.0_371'
+Driver info: driver.version: AndroidDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Nams-MacBook-Pro.local', ip: 'fe80:0:0:0:1470:488a:6132:a0d3%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.2', java.version: '1.8.0_371'
+Driver info: driver.version: AndroidDriver
+[05:04:43]: Start Test: LoginTest
+[05:04:45]: - Run with Emulator - Mobile
+[05:04:45]: - Check FinX Mobile App
+[05:04:46]: Can't start Android App, please check - Unable to create a new remote session. Please check the server log for more details. Original error: The requested resource could not be found, or a request was received using an HTTP method that is not supported by the mapped resource (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 91 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Nams-MacBook-Pro.local', ip: 'fe80:0:0:0:1470:488a:6132:a0d3%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.2', java.version: '1.8.0_371'
+Driver info: driver.version: AndroidDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Nams-MacBook-Pro.local', ip: 'fe80:0:0:0:1470:488a:6132:a0d3%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.2', java.version: '1.8.0_371'
+Driver info: driver.version: AndroidDriver
+[05:13:25]: Start Test: LoginTest
+[05:13:27]: - Run with Emulator - Mobile
+[05:13:27]: - Check FinX Mobile App
+[05:13:28]: Can't start Android App, please check - Unable to create a new remote session. Please check the server log for more details. Original error: The requested resource could not be found, or a request was received using an HTTP method that is not supported by the mapped resource (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 121 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Nams-MacBook-Pro.local', ip: 'fe80:0:0:0:1470:488a:6132:a0d3%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.2', java.version: '1.8.0_371'
+Driver info: driver.version: AndroidDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Nams-MacBook-Pro.local', ip: 'fe80:0:0:0:1470:488a:6132:a0d3%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.2', java.version: '1.8.0_371'
+Driver info: driver.version: AndroidDriver
+[05:14:58]: Start Test: LoginTest
+[05:15:00]: - Run with Emulator - Mobile
+[05:15:00]: - Check FinX Mobile App
+[05:15:00]: Can't start Android App, please check - Connection refused (Connection refused)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Nams-MacBook-Pro.local', ip: 'fe80:0:0:0:1470:488a:6132:a0d3%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.2', java.version: '1.8.0_371'
+Driver info: driver.version: AndroidDriver
+[05:18:04]: Start Test: LoginTest
+[05:18:06]: - Run with Emulator - Mobile
+[05:18:06]: - Check FinX Mobile App
+[05:18:06]: Can't start Android App, please check - Connection refused (Connection refused)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Nams-MacBook-Pro.local', ip: 'fe80:0:0:0:1470:488a:6132:a0d3%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.2', java.version: '1.8.0_371'
+Driver info: driver.version: AndroidDriver
+[05:41:25]: Start Test: LoginTest
+[05:41:27]: - Run with Emulator - Mobile
+[05:41:27]: - Check FinX Mobile App
+[05:41:32]: Started Android App
+[05:41:38]: Open app, look & feel
+[05:41:40]: xPath of LANGUAGE_BUTTON
+[05:41:40]: Display Pre-Login Page, click on Explore Now button
+[05:41:41]: xPath of EXPLORE_BUTTON
+[05:41:44]: Display Home Page
+[05:41:44]: checkInteractionOnExploreNowButton - Passed
+[05:41:44]: ================ NEXT TESTCASE ======================
+[05:41:45]: ********************** END TEST ************************
+

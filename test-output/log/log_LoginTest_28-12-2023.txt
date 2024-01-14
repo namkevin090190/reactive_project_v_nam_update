@@ -1,0 +1,17 @@
+
+FinX - Test log reported.
+ =============================================
+
+[01:25:32]: Start Test: LoginTest
+[01:25:34]: - Run with Emulator - Mobile
+[01:25:34]: - Check FinX Mobile App
+[01:25:40]: Started Android App
+[01:25:46]: Open app, look & feel
+[01:25:47]: xPath of LANGUAGE_BUTTON
+[01:25:47]: Display Pre-Login Page, click on Explore Now button
+[01:25:48]: xPath of EXPLORE_BUTTON
+[01:25:51]: Display Home Page
+[01:25:51]: checkInteractionOnExploreNowButton - Passed
+[01:25:52]: ================ NEXT TESTCASE ======================
+[01:25:52]: ********************** END TEST ************************
+

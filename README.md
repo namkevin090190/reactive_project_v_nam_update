@@ -1,4 +1,4 @@
-# app_automation
+# app_automation - Vikki
 
 
 ## I. Hướng dẫn setup môi trường test với appium cho Android
